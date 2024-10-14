@@ -12,6 +12,7 @@ R packages:
 
 ## Author
 Written by Nina Vittorelli
+
 Contact: nina.vittorelli [at] sorbonne-universite.fr
 
 ## Licence 
