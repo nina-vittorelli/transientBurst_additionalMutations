@@ -23,7 +23,7 @@ Additionally, let us suppose that the mutation events are independent **(H3)**.
 
 For a single site, because of the hypotheses (H1) and (H3), the probability that no substitution occurred during the $D$ cell divisions is $(1-\mu)^{D}$. Conversely, the probability that there is a substitution at the end of the experiment is $p = 1- (1-\mu)^{D}$. Let us note that we ignore the possibility that one mutation and the reverse mutation occurred, because the probability of this event is negligible in this framework.
 
-# 4. Distribution of the number of substitutions in the whole genome
+## 4. Distribution of the number of substitutions in the whole genome
 
 Each site has a identical probability $p = 1- (1-\mu)^{D}$ to have a substitution at the end of the experiment. Because of (H2), the $G$ sites are independent, and therefore the number of substitutions between the genome of this cell and the genome of the ancestral cell $X$ follows a Binomial distribution: $X \sim B(G, p)$.
 
