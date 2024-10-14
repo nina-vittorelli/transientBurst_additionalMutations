@@ -1,7 +1,7 @@
 # transientBurst_additionalMutations
 
 ## Description
-Code for the paper [1]
+Code for the paper [1].
 
 The script `compute_distribution.R` computes the distribution of the number of additional mutations in a cell after the experimental protocol from [1]. The output is the table `distribution_additional_mutations.csv`. The mathematical framework is described in `model.md`.
 
