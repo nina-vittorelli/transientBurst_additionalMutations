@@ -1,7 +1,7 @@
 # transientBurst_additionalMutations
 
 ## Description
-Compute the theoretical distribution of the number of non-selected mutations in a cell after the experimental protocol from [1].
+This project aims at computing the theoretical distribution of the number of non-selected mutations in a cell after the experimental protocol from [1].
 
 The mathematical framework is described in `model.md`. The script `compute_distribution.R` computes the distribution of the number of non-selected mutations in a cell. The output is the table `distribution_additional_mutations.csv`.
 
