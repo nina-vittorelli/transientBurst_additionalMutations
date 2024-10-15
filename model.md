@@ -2,7 +2,7 @@
 
 ## 1. The question
 
-We study cells with a constant genome size $G$. In the experimental protocol, one single cell (hereafter the ancestral cell) is grown for $D$ generations. 
+We study cells with a constant genome size $G$. In the experimental protocol, one single cell (hereafter the ancestral cell) is grown for $D$ generations of mitosis. 
 
 Let us consider one given cell at the end of the experiment. This cell has undergone $D$ cell divisions, that separate it from the ancestral cell.
 
