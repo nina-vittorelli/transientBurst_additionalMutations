@@ -2,7 +2,7 @@
 
 ## 1. The question
 
-We study cells with a constant genome size $G$. In the experimental protocol, one single cell (hereafter the ancestral cell) is grown for $D$ generations of mitosis. 
+We study cells with a constant genome size $G$. In the experimental protocol, one single cell (hereafter the ancestral cell) is grown for $D$ mitotic generations. 
 
 Let us consider one given cell at the end of the experiment. This cell has undergone $D$ cell divisions, that separate it from the ancestral cell.
 
@@ -25,7 +25,7 @@ For a single site, because of the hypotheses (H1) and (H3), the probability that
 
 ## 4. Distribution of the number of substitutions in the whole genome
 
-Each site has a identical probability $p = 1- (1-\mu)^{D}$ to have a substitution at the end of the experiment. Because of (H2), the $G$ sites are independent, and therefore the number of substitutions between the genome of this cell and the genome of the ancestral cell $X$ follows a Binomial distribution: $X \sim B(G, p)$.
+Each site has an identical probability $p = 1- (1-\mu)^{D}$ to have a substitution at the end of the experiment. Because of (H2), the $G$ sites are independent, and therefore the number of substitutions between the genome of this cell and the genome of the ancestral cell $X$ follows a Binomial distribution: $X \sim B(G, p)$.
 
 ## 5. Distribution of the number of additional substitutions in a cell with two given mutations
 
