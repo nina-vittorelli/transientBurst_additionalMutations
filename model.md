@@ -25,7 +25,7 @@ For a single site, because of the hypotheses (H1) and (H3), the probability that
 
 ## 4. Distribution of the number of substitutions in the whole genome
 
-Each site has an identical probability $p = 1- (1-\mu)^{D}$ to have a substitution at the end of the experiment. Because of (H2), the $G$ sites are independent, and therefore the number of substitutions between the genome of this cell and the genome of the ancestral cell $X$ follows a Binomial distribution: $X \sim B(G, p)$.
+Because of (H2), each site has an identical probability $p = 1- (1-\mu)^{D}$ to have a substitution at the end of the experiment, and the $G$ sites are independent. Therefore, the number of substitutions between the genome of this cell and the genome of the ancestral cell $X$ follows a Binomial distribution: $X \sim B(G, p)$.
 
 ## 5. Distribution of the number of additional substitutions in a cell with two given mutations
 
