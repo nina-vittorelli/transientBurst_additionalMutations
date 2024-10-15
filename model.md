@@ -16,7 +16,7 @@ Let us suppose that the per-site mutation rate, denoted $\mu$, is both:
 
 **(H2)** homogeneous across genomic sites, *i.e.* the probability that a substitution appears is identical for each of the $G$ sites of the genome.
 
-Additionally, let us suppose that the mutation events are independent **(H3)**. 
+Additionally, let us suppose that the mutation events are independent **(H3)** and have no effect on the cell division process. 
 
 
 ## 3. Number of substitutions that occurred at a single site
