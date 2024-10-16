@@ -1,5 +1,7 @@
 # transientBurst_additionalMutations
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13940769.svg)](https://doi.org/10.5281/zenodo.13940769)
+
 ## Description
 This project aims at computing the theoretical distribution of the number of non-selected mutations in a cell after the experimental protocol from [1].
 
