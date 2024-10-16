@@ -5,9 +5,9 @@ library(tidyverse)  # version 2.0.0
 library(stats)      # version 4.3.2
 
 # Parameters
-mu <- 3.3 * 10**(-10) # probability of substitution at one site during one cell division
-D <- 27               # number of cell divisions
-G <- 10**6            # genome size (number of sites)
+mu <- 3.3 * (10 ** (-10)) # probability of substitution at one site during one cell division
+D <- 27                   # number of cell divisions
+G <- 12 * (10 ** 6)       # genome size (number of sites)
 
 # Probability for one site to carry a substitution at the end of the experiment
 p = 1-((1-mu)**D)
