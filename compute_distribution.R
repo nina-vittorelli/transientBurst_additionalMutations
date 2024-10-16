@@ -10,7 +10,7 @@ D <- 27               # number of cell divisions
 G <- 10**6            # genome size (number of sites)
 
 # Probability for one site to carry a substitution at the end of the experiment
-p = 1-(1-mu)**D
+p = 1-((1-mu)**D)
 
 # X is the total number of non-selected substitutions in the genome of one cell at the end of
 # the experiment. We want to compute the probability that X = k for k between 0 and 20 
